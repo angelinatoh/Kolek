@@ -7,7 +7,7 @@ The system integrates mobile applications and a web dashboard to streamline comm
 
 ---
 
-## 📱 System Modules
+## System Modules
 
 * **Collector Mobile App**
   Built using Flutter to manage assigned collection tasks, update collection status, and record UCO weights.
@@ -20,7 +20,7 @@ The system integrates mobile applications and a web dashboard to streamline comm
 
 ---
 
-## 🛠 Technologies Used
+## Technologies Used
 
 **Mobile Application:**
 
@@ -34,7 +34,7 @@ The system integrates mobile applications and a web dashboard to streamline comm
 
 ---
 
-## 🌱 Key Features
+## Key Features
 
 * Real-time UCO collection tracking
 * Task assignment and status management
@@ -44,16 +44,15 @@ The system integrates mobile applications and a web dashboard to streamline comm
 
 ---
 
-## 📦 Project Files
+## Project Files
 
 ⚠️ **Note:**
 Due to the large size of the project (especially Flutter builds), the source code is uploaded in **ZIP files**.
-
-👉 Please download the ZIP files from this repository to view the full project structure and implementation.
+Please download the ZIP files from this repository to view the full project structure and implementation.
 
 ---
 
-## 🎯 Project Objective
+## Project Objective
 
 The goal of Kolek is to:
 
