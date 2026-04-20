@@ -60,10 +60,3 @@ The goal of Kolek is to:
 * Reduce environmental pollution
 * Provide a structured and digitalized UCO collection system
 * Support sustainability initiatives aligned with industry practices
-
----
-
-## 🤝 Client
-
-**PETRONAS Dagangan Berhad (PDB)**
-
